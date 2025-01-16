@@ -33,12 +33,13 @@ Este proyecto fue desarrollado utilizando las siguientes tecnologias:
 Este proyecto fue desarrollado utilizando las siguientes tecnologias de inteligencia artificial:
 
 - <a src="https://www.blackbox.ai/">BlackBox.ai</a> | Chat
--- <img alt="Demo" src="./Images/evidencias/Generacion de textos-1.png" />
--- <img alt="Demo" src="./Images/evidencias/Generacion de textos-2.png" />
--- <img alt="Demo" src="./Images/evidencias/Generacion de textos-3.png" />
-- <a src="https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox">Cyber Coder</a> | (VsCode Copilot)
--- <img alt="Demo" src="./Images/evidencias/BlackBoxAI Copilot para traducciones.png" />
+    <img alt="Demo" src="./Images/evidencias/Generacion de textos-1.png" />
+    <img alt="Demo" src="./Images/evidencias/Generacion de textos-2.png" />
+    <img alt="Demo" src="./Images/evidencias/Generacion de textos-3.png" />
+- <a src="https://marketplace.visualstudio.com/items?itemName=Blackboxapp.blackbox">Cyber Coder</a> | (VsCode Copilot [ Auto generar codigo | Traducciones | Etc... ] )
+    <img alt="Demo" src="./Images/evidencias/BlackBoxAI Copilot Auto generar codigo.png" />
+    <img alt="Demo" src="./Images/evidencias/BlackBoxAI Copilot para traducciones.png" />
 - <a src="https://www.canva.com/ai-image-generator/">Canva</a> | IA generativa
--- <img alt="Demo" src="./Images/evidencias/Generacion de Imagenes.png" />
--- <img alt="Demo" src="./Images/evidencias/Generacion de Logo.png" />
--- <img alt="Demo" src="./Images/evidencias/Generacion de Logo Opcion Definitiva.png" />
+    <img alt="Demo" src="./Images/evidencias/Generacion de Imagenes.png" />
+    <img alt="Demo" src="./Images/evidencias/Generacion de Logo.png" />
+    <img alt="Demo" src="./Images/evidencias/Generacion de Logo Opcion Definitiva.png" />
