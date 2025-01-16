@@ -22,9 +22,10 @@ function AboutCard() {
             Mi viaje en el mundo del desarrollo comenzó con WordPress, donde he perfeccionado mis habilidades en la personalización de temas y la creación de plugins que se adaptan a las necesidades específicas de mis clientes.
             <br />
             <br />
-            <h3 >
-              Mi <strong className="purple"> Filosofía </strong>
-            </h3>
+            
+            Mi <strong className="purple"> Filosofía </strong>
+            <br />
+            
             Creo firmemente que el desarrollo web es una combinación de arte y ciencia. Cada proyecto es una oportunidad para innovar y crear algo que no solo cumpla con las expectativas, sino que las supere. Estoy comprometido a mantenerme actualizado con las últimas tendencias y tecnologías para ofrecer soluciones que sean no solo efectivas, sino también sostenibles a largo plazo.
             <br />
             <br />
