@@ -19,7 +19,7 @@ function Projects() {
           Estas son algunas de las tecnologias que pongo a tu disposicion
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+          <Col md={3} className="project-card">
             <ProjectCard
               imgPath={wordpress}
               isBlog={false}
@@ -30,7 +30,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          <Col md={3} className="project-card">
             <ProjectCard
               imgPath={magento}
               isBlog={false}
@@ -41,7 +41,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          <Col md={3} className="project-card">
             <ProjectCard
               imgPath={react}
               isBlog={false}
@@ -52,7 +52,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          <Col md={3} className="project-card">
             <ProjectCard
               imgPath={html}
               isBlog={false}
