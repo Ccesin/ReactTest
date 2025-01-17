@@ -19,7 +19,7 @@ function Home() {
                   👋🏻
                 </span>
               </h1>
-
+              
               <h1 className="heading-name">
                 SOY
                 <strong className="main-name"> CARLOS CESIN</strong>
