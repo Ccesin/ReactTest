@@ -63,7 +63,7 @@ function NavBar() {
                 to="/sobre-mi"
                 onClick={() => updateExpanded(false)}
               >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> Sobre Mi
+                <AiOutlineUser style={{ marginBottom: "2px" }} /> Sobre Mí
               </Nav.Link>
             </Nav.Item>
 

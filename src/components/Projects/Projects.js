@@ -16,7 +16,7 @@ function Projects() {
         <strong className="purple"> Servicios </strong> que ofrezco
         </h1>
         <p style={{ color: "white" }}>
-          Estas son algunas de las tecnologias que pongo a tu disposicion
+          Estas son algunas de las tecnologías que pongo a tu disposición, si deseas adquirir un servicio, no dudes en contactarme a traves de mi chat de Asistente IA .
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={3} className="project-card">

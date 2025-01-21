@@ -16,7 +16,7 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em", textAlign:"left" }}>
-              PERMITEME <span className="purple"> PRESENTARME </span>
+              PERMÍTEME <span className="purple"> PRESENTARME </span>
             </h1>
             <p className="home-about-body">
               Soy un apasionado del desarrollo web con más de 5 años de experiencia en la creación de sitios y aplicaciones que no solo son visualmente atractivos, sino también funcionales y optimizados para el usuario. 🤷‍♂️
@@ -25,7 +25,7 @@ function Home2() {
               Mi viaje en el mundo del desarrollo comenzó con WordPress, donde he perfeccionado mis habilidades en la personalización de temas y la creación de plugins que se adaptan a las necesidades específicas de mis clientes.
               <br />
               <br />
-              Con el tiempo, me he ido especializando en tecnologías como:
+              Con el tiempo, me he especializando en tecnologías como:
               <br />
               <i>
                 <b className="purple"> HTML, CSS y JavaScript </b>
@@ -36,17 +36,17 @@ function Home2() {
               </i>
               <br />
               <br />
-              Mi campo de interes se basa en: &nbsp;
+              Mi campo de interés se basa en: &nbsp;
               <i>
-                <b className="purple">Productos y Tecnologias Web </b> 
+                <b className="purple">Herramientas y Tecnologías Web </b> 
               </i>
               <br />
               <br />
-              Cada vez que sea posible intento aprender y experimentar con tecnologias como <b className="purple">Node.js</b> y
+              Cada vez que sea posible intento aprender y experimentar con tecnologías como <b className="purple">Node.js</b> y
               <i>
                 <b className="purple">
                   {" "}
-                 Frameworks y Librerias modernas de JavaScript
+                 Frameworks y Librerías modernas de JavaScript
                 </b>
               </i>
               &nbsp; como
@@ -63,9 +63,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>MIS REDES</h1>
+            <h1>Siéntete libre de  <span className="purple">contactar </span> conmigo</h1>
             <p>
-              Sientete libre de  <span className="purple">contactar </span> conmigo
+              Encuentrame en...
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
