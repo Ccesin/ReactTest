@@ -70,7 +70,7 @@ La landing page la diseñé con la herramienta de diseño Photoshop, para defini
 <img alt="Diseño Mockup" src="./Images/evidencias/Design/Step1_Mockup_Design.png"/>
 
 - **Mockup Definido como BASE**
-<img alt="Diseño Mockup" src="./Images/evidencias/Design/Step1_Mockup_Design.png"/>
+<img alt="Diseño Mockup" src="./Images/evidencias/Design/Step1_Mockup.png"/>
 
 - **Gereacion de plantilla de REACT.JS con Vercel**
 Por tematica de tiempo, decidi implementar un template de React.js que se adecuo al mockup de landing page. Para esto utilice ⚙️[VERCEL](https://github.com/Ccesin/ReactTest)

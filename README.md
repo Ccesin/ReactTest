@@ -5,7 +5,17 @@
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
+  <br/>
+  <img alt="Demo" src="./Images/Web_Preview.png" />
 </div>
+
+<br/>
+
+## Documentación Solicitada
+A continuacion la documentación solicitada en los requerimientos del proyecto: 
+
+- **⚙️[Guia de Usuario](https://github.com/Ccesin/ReactTest/blob/main/Guia-de-Usuario.md).**
+- **⚙️[Presentacion](https://github.com/Ccesin/ReactTest/blob/main/Presentacion.md).**
 
 <br/>
 
