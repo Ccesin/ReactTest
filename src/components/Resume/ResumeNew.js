@@ -33,19 +33,19 @@ function ResumeNew() {
           </Button>
         </Row>
         
-        {/* 
+        
         <img
           src={pdf}
           alt="Ccesin CV"
           className="img-fluid"
           style={{ maxHeight: "90vw", margin: "33px 0", borderRadius: "6px" }}
-        /> */}
+        />
 
-        <Row className="resume">
+        {/* <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
             <Page pageNumber={1} scale={width > 786 ? 0.6 : 0.6} />
           </Document>
-        </Row>
+        </Row> */}
 
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
