@@ -3,6 +3,7 @@ import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import pdf from "../../Assets/../Assets/CcesinCV.pdf";
+import cvImg from "../../Assets/../Assets/CcesinCV.png";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
@@ -35,7 +36,7 @@ function ResumeNew() {
         
         
         <img
-          src={pdf}
+          src={cvImg}
           alt="Ccesin CV"
           className="img-fluid"
           style={{ maxHeight: "90vw", margin: "33px 0", borderRadius: "6px" }}
