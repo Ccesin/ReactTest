@@ -39,7 +39,7 @@ function ResumeNew() {
           alt="Ccesin CV"
           className="img-fluid"
           style={{ maxHeight: "90vw", margin: "33px 0", borderRadius: "6px" }}
-        />
+        /> 
 
         {/* <Row className="resume">
           <Document file={pdf} className="d-flex justify-content-center">
